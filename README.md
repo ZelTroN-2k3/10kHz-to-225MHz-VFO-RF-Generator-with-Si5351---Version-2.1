@@ -1,0 +1,2 @@
+# 10kHz-to-225MHz-VFO-RF-Generator-with-Si5351---Version-2.1
+  10kHz to 225MHz VFO / RF Generator with Si5351 and Arduino Nano   + IF offset (+/-), RX/TX selector, mémoires de bandes, et bargraphe S-Meter.,    sélecteur RX/TX pour transceivers QRP,   [* Basé sur le code original de J. CesarSound - ver 2.0 - Feb/2021 *]    Adaptation pour ST7920 (128x64) + U8g2 (page buffer) par [ZelTroN2k3] 18.01.2025.
