@@ -10,6 +10,7 @@ Mémoires de bandes, et bargraphe S-Meter.
 sélecteur RX/TX pour transceivers QRP.
 [* Basé sur le code original de J. CesarSound - ver 2.0 - Feb/2021 *] `https://www.hackster.io/CesarSound/10khz-to-225mhz-vfo-rf-generator-with-si5351-version-2-bfa619` 
 Adaptation pour ST7920 (128x64) + U8g2 (page buffer) par [ZelTroN2k3] 18.01.2025.
+![logo](https://github.com/ZelTroN-2k3/10kHz-to-225MHz-VFO-RF-Generator-with-Si5351---Version-2.1/blob/main/Electrinic-1%202025-01-19%20%C3%A0%2018.08.34_bbd70f0d.jpg)
 
 # Story
 This is a project of a VFO (variable frequency oscillator) for use in DIY homebrew radio equipement such as Superheterodyne Single / Double Conversion Receivers, DCR, SDR or Ham QRP Transceivers. 
